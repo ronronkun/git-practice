@@ -1,7 +1,6 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-ローカルリポで変更しましたからね　　
-conflict-remote上で更新(コンフリクト発生222！)
+rebase-practice出更新（rebase用）
 
 
 
